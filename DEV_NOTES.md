@@ -23,3 +23,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Wrote notes on upcoming feature design
 - Added CONTRIBUTING.md stub
+
+## 2026-03-30
+- Tested build on clean environment
+- Improved log message formatting
