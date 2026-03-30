@@ -27,3 +27,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Tested build on clean environment
 - Improved log message formatting
+
+## 2026-03-30
+- Pinned dependency versions for reproducibility
